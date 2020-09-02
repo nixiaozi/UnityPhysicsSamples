@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D1C056F3-20C3-8216-C4BF-5C8A09EE5CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingStressTest", "StreamingStressTest.csproj", "{AF0D86FD-C114-B516-D3B5-119FA1EA33B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Physics.Samples.Test", "Unity.Physics.Samples.Test.csproj", "{0F974446-5909-9016-7E6D-02E7E9F0FDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingStressTestEditor", "StreamingStressTestEditor.csproj", "{0D42E3E7-00B7-E3DA-D48F-810EF1200325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C056F3-20C3-8216-C4BF-5C8A09EE5CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C056F3-20C3-8216-C4BF-5C8A09EE5CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C056F3-20C3-8216-C4BF-5C8A09EE5CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C056F3-20C3-8216-C4BF-5C8A09EE5CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0D86FD-C114-B516-D3B5-119FA1EA33B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0D86FD-C114-B516-D3B5-119FA1EA33B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0D86FD-C114-B516-D3B5-119FA1EA33B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0D86FD-C114-B516-D3B5-119FA1EA33B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F974446-5909-9016-7E6D-02E7E9F0FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F974446-5909-9016-7E6D-02E7E9F0FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F974446-5909-9016-7E6D-02E7E9F0FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F974446-5909-9016-7E6D-02E7E9F0FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D42E3E7-00B7-E3DA-D48F-810EF1200325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D42E3E7-00B7-E3DA-D48F-810EF1200325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D42E3E7-00B7-E3DA-D48F-810EF1200325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D42E3E7-00B7-E3DA-D48F-810EF1200325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
