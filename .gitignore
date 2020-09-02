@@ -7,3 +7,5 @@
 /Logs
 /obj/Debug
 /Temp
+/Assets/SceneDependencyCache
+/Assets/SceneDependencyCache.meta
